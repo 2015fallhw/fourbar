@@ -9,7 +9,8 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20151123233132.1" a="E"><vh>@clean index.html</vh>
+<v t="amd.20151124000409.1"><vh>@edit README.md</vh></v>
+<v t="amd.20151123233132.1"><vh>@clean index.html</vh>
 <v t="amd.20151123225336.1" a="E"><vh>html</vh>
 <v t="amd.20151123225336.2" a="E"><vh>head</vh>
 <v t="amd.20151123225336.3"><vh>meta</vh></v>
